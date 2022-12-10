@@ -5,7 +5,7 @@
 ---
 ## My contacts:
 
-* Phone: +380953138637
+* Phone: +380 95 313 86 37
 * Email: nikitadubovik1990@gmail.com
 * GitHub: [nikOAKita](https://github.com/NikitaDubovyk)  
 * [Telegram](@NikitaOak)
