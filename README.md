@@ -1,4 +1,4 @@
-### [rsschool-sv](https://github.com/NikitaDubovyk)
+
 ---
 # Mykyta Dubovyk
 
