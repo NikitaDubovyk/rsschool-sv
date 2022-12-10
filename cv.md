@@ -1,6 +1,6 @@
 
 ---
-# Mykyta Dubovyk
+# Nikita Dubovyk
 
 ---
 ## My contacts:
