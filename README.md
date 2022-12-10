@@ -1,1 +1,1 @@
-https://NikitaDubovyk.github.io/rsschool-cv/cv.md
+https://NikitaDubovyk.github.io/rsschool-cv/cv
